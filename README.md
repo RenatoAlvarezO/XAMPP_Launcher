@@ -1,2 +1,3 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
+# XAMPP Launcher
+
+A simple CLI program written in Dart for launching XAMPP from the terminal, insted of executing the already de command created on the LAMPP folder
